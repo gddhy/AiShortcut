@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+<resources>
+    <string name="app_name">小爱捷径</string>
+</resources>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">小爱捷径</string>
+
+</resources>
+>>>>>>> 8ff990687b4e7f5d7e56e0bea41efa477ff88c94
